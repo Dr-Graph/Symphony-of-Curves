@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.typst_cache/
+.env
+*.env
+
+# Manim output
+media/
+videos/
+images/
+*.mp4
+*.wav
